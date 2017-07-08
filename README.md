@@ -24,6 +24,8 @@
 	- [Converging on a new role for analogy in problem solving and retrieval: When two problems are better than one](https://business.illinois.edu/loewenstein/papers/Kurtz&Loewenstein%20Mem&Cog07.pdf)
 	- [Surface vs. structural features](https://prezi.com/aeriw4h1ldxk/surface-vs-structural-features/)
 	- [Minimal pairs in linguistics](https://en.wikipedia.org/wiki/Minimal_pair)
+	- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/introduction#about-this-tutorial)
+		- "There are quite a few tutorials on Haskell floating around on the internet. When I was starting out in Haskell, I didn't learn from just one resource. The way I learned it was by reading several different tutorials and articles because each explained something in a different way than the other did. By going through several resources, I was able put together the pieces and it all just came falling into place."
 - More human induction
 	- [Using Causal Induction in Humans to Learn and Infer Causality from Video](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Causality_Cognitive_Science_2013.pdf)
 
